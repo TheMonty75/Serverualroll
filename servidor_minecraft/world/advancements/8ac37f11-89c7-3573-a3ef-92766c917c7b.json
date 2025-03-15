@@ -6768,9 +6768,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-03-15 21:19:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-03-15 21:20:56 +0000"
+    },
+    "done": true
+  },
   "create:belt": {
     "criteria": {
       "0": "2025-03-15 20:50:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-03-15 21:17:57 +0000"
     },
     "done": true
   },
@@ -6786,9 +6804,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-15 21:18:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-03-15 21:18:23 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-03-15 21:19:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-03-15 21:18:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-15 21:18:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-15 21:18:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-03-15 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-03-15 21:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-15 21:18:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-03-15 20:45:36 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-03-15 21:20:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-03-15 21:20:56 +0000"
     },
     "done": true
   },
