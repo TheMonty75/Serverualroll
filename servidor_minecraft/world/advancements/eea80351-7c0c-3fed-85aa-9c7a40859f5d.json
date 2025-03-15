@@ -4077,6 +4077,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-15 18:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-03-15 18:01:57 +0000"
