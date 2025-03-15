@@ -3620,6 +3620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-15 15:43:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-15 14:17:48 +0000"
