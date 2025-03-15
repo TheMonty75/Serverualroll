@@ -279,3 +279,5 @@
 [15Mar2025 21:50:05.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Montirizo[/127.117.194.152:46475] logged in with entity id 135777 at (-406.0957993736292, 66.0, 294.07981794062033)
 [15Mar2025 21:50:05.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo joined the game
 [15Mar2025 21:50:05.664] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
+[15Mar2025 22:15:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
+[15Mar2025 22:17:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Survival Mode]
