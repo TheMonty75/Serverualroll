@@ -107,3 +107,17 @@
 [15Mar2025 12:53:13.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime has made the advancement [Drop Pop Candy]
 [15Mar2025 12:53:21.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SF_KindPrime lost connection: Disconnected
 [15Mar2025 12:53:21.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime left the game
+[15Mar2025 12:56:10.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Montirizo[/127.117.194.152:59967] logged in with entity id 40945 at (-404.30000001192093, 74.0, 278.69999998807907)
+[15Mar2025 12:56:10.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo joined the game
+[15Mar2025 12:56:10.926] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
+[15Mar2025 12:56:16.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> ola
+[15Mar2025 12:56:21.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> hi
+[15Mar2025 12:56:27.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> solo voy a dejar el pj aqui afk que voy a comer
+[15Mar2025 12:56:31.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> dale
+[15Mar2025 12:56:31.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> es para ver como iba el server
+[15Mar2025 12:56:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> bien?
+[15Mar2025 12:56:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> no ha explotado
+[15Mar2025 12:56:42.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> me gusta
+[15Mar2025 12:59:29.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Disconnected
+[15Mar2025 12:59:29.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game
+[15Mar2025 12:59:29.447] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
