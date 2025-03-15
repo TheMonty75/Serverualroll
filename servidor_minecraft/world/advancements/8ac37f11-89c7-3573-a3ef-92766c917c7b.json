@@ -954,6 +954,7 @@
       "minecraft:magma_cube": "2025-03-14 15:48:30 +0000",
       "minecraft:spider": "2025-03-13 12:31:03 +0000",
       "minecraft:creeper": "2025-03-13 12:31:18 +0000",
+      "minecraft:slime": "2025-03-15 17:01:32 +0000",
       "minecraft:phantom": "2025-03-14 15:05:48 +0000",
       "minecraft:zombified_piglin": "2025-03-13 18:06:01 +0000",
       "minecraft:wither_skeleton": "2025-03-14 15:55:38 +0000",
@@ -6704,6 +6705,36 @@
   "botania:main/rune_pickup": {
     "criteria": {
       "rune": "2025-03-15 12:53:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc": {
+    "criteria": {
+      "has_item": "2025-03-15 16:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-15 17:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-15 17:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-15 17:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-03-15 16:57:36 +0000"
     },
     "done": true
   },
