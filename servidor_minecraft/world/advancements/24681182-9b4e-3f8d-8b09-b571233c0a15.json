@@ -1478,6 +1478,7 @@
       "minecraft:skeleton": "2025-03-12 16:26:57 +0000",
       "minecraft:ghast": "2025-03-13 17:44:40 +0000",
       "minecraft:hoglin": "2025-03-13 17:45:01 +0000",
+      "minecraft:phantom": "2025-03-15 20:29:51 +0000",
       "minecraft:piglin": "2025-03-13 17:53:35 +0000",
       "minecraft:zombie": "2025-03-12 22:16:39 +0000",
       "minecraft:drowned": "2025-03-13 15:34:31 +0000"
@@ -6022,6 +6023,42 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-03-15 19:37:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2025-03-15 20:27:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_helmet": {
+    "criteria": {
+      "has_prev_tier": "2025-03-15 20:30:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_leggings": {
+    "criteria": {
+      "has_prev_tier": "2025-03-15 20:30:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-03-15 20:27:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_boots": {
+    "criteria": {
+      "has_prev_tier": "2025-03-15 20:30:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_chestplate": {
+    "criteria": {
+      "has_prev_tier": "2025-03-15 20:30:30 +0000"
     },
     "done": true
   },
