@@ -4892,3 +4892,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Mar2025 17:34:07.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Mar2025 17:39:07.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Mar2025 17:39:07.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 17:42:31.337] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-445, y=73, z=310}) doesn't have enough leaves around top most log
+[15Mar2025 17:42:41.480] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-444, y=73, z=310}) doesn't have enough leaves around top most log
+[15Mar2025 17:42:42.339] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-445, y=72, z=310}) doesn't have enough leaves around top most log
+[15Mar2025 17:44:07.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 17:44:07.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 17:46:58.669] [Server thread/DEBUG] [mixin/]: Mixing PistonStructureResolverMixin from botania_xplat.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[15Mar2025 17:48:48.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar moved too quickly! -29.462055250631238,95.5,-27.80000001192093
+[15Mar2025 17:48:55.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> He acontecido
+[15Mar2025 17:49:00.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> lo cualo?
+[15Mar2025 17:49:01.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Escuché la musica
+[15Mar2025 17:49:05.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> de locos xDDDDD
+[15Mar2025 17:49:07.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 17:49:07.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 17:49:11.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Junto a 4 esqueletos con arcos encantados
+[15Mar2025 17:49:19.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Así que he venido a dejar mi loot
+[15Mar2025 17:49:20.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> duro

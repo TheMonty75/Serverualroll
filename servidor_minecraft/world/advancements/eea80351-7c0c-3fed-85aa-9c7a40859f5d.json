@@ -418,7 +418,8 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "vegetable_soup": "2025-03-13 19:55:42 +0000",
-      "ratatouille": "2025-03-13 20:03:09 +0000"
+      "ratatouille": "2025-03-13 20:03:09 +0000",
+      "fried_rice": "2025-03-15 17:42:10 +0000"
     },
     "done": false
   },
@@ -3830,6 +3831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-15 17:45:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-03-15 16:57:08 +0000"
@@ -4031,6 +4038,12 @@
   "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-03-15 17:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-15 17:45:29 +0000"
     },
     "done": true
   },
