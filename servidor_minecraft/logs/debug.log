@@ -5117,3 +5117,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Mar2025 13:52:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar has made the advancement [Diamonds!]
 [15Mar2025 13:55:01.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Mar2025 13:55:01.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 14:00:01.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 14:00:01.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 14:04:24.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Tienespellejo de vaka
+[15Mar2025 14:05:01.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 14:05:01.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
