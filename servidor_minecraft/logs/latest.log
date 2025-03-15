@@ -84,3 +84,21 @@
 [15Mar2025 20:11:52.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo joined the game
 [15Mar2025 20:11:52.281] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
 [15Mar2025 20:11:54.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[15Mar2025 20:16:10.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SF_KindPrime[/127.80.254.101:42769] logged in with entity id 1499 at (-451.9230548266269, 71.0, 333.39080225167027)
+[15Mar2025 20:16:10.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime joined the game
+[15Mar2025 20:16:10.843] [Server thread/INFO] [Jade/]: Syncing config to SF_KindPrime (8ac37f11-89c7-3573-a3ef-92766c917c7b)
+[15Mar2025 20:16:15.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> CONCHA LA MADRE
+[15Mar2025 20:16:22.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> ?
+[15Mar2025 20:16:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> nada
+[15Mar2025 20:16:29.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> che
+[15Mar2025 20:16:33.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> dime
+[15Mar2025 20:16:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> tenemos molino de piedra
+[15Mar2025 20:16:51.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> que guayyyy
+[15Mar2025 20:16:54.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> si le das trigo, te da harina, y si le das lana, te da hilo
+[15Mar2025 20:17:08.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> que guapo
+[15Mar2025 20:17:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> entre otras cosas, muchas suelen ser tintes
+[15Mar2025 20:25:28.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> esto que hace
+[15Mar2025 20:25:37.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> es un generador de mana
+[15Mar2025 20:25:49.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> lo que pasa es que necesita automatizarse del todo
+[15Mar2025 20:25:51.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> y el reloj de arena?
+[15Mar2025 20:26:04.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> hace que se active el dropper cada 5 seg
