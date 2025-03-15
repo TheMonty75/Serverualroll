@@ -128,3 +128,6 @@
 [15Mar2025 13:52:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar has made the advancement [Diamonds!]
 [15Mar2025 14:04:24.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Tienespellejo de vaka
 [15Mar2025 14:10:02.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> hello
+[15Mar2025 14:25:43.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo moved too quickly! 24.220773912120137,9.5,-20.538466567648868
+[15Mar2025 14:26:34.688] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-412, y=72, z=278}
+[15Mar2025 14:26:38.787] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-412, y=71, z=278}
