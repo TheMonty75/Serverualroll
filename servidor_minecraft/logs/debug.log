@@ -4725,3 +4725,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Mar2025 12:04:09.310] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1203234a into net.minecraft.network.Connection@2c703ab3
 [15Mar2025 12:04:09.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
 [15Mar2025 12:04:09.365] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
+[15Mar2025 12:04:53.499] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-438, y=70, z=343}) doesn't have enough leaves around top most log
+[15Mar2025 12:04:54.507] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-438, y=70, z=344}) doesn't have enough leaves around top most log
+[15Mar2025 12:04:55.556] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-438, y=70, z=345}) doesn't have enough leaves around top most log
+[15Mar2025 12:04:56.609] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-439, y=70, z=345}) doesn't have enough leaves around top most log
+[15Mar2025 12:04:57.670] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-440, y=70, z=345}) doesn't have enough leaves around top most log
+[15Mar2025 12:04:58.709] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-440, y=70, z=344}) doesn't have enough leaves around top most log
+[15Mar2025 12:04:59.762] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-440, y=70, z=343}) doesn't have enough leaves around top most log
+[15Mar2025 12:05:00.806] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-439, y=70, z=343}) doesn't have enough leaves around top most log
+[15Mar2025 12:05:01.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 12:05:01.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 12:07:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime has made the advancement [The Andesite Age]
+[15Mar2025 12:08:14.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime has made the advancement [Bonk!]
+[15Mar2025 12:09:04.225] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-457, y=72, z=305}) doesn't have enough leaves around top most log
+[15Mar2025 12:10:01.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 12:10:01.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 12:11:24.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> @create
