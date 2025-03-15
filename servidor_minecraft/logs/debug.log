@@ -4620,3 +4620,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Mar2025 21:25:44.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> espera
 [15Mar2025 21:26:41.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Mar2025 21:26:41.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 21:27:36.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> y ahora como llevamos el carbón hasta tu zona?
+[15Mar2025 21:27:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> me tego que ir a cenar man
+[15Mar2025 21:27:58.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> lo miro mañana
+[15Mar2025 21:27:59.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SF_KindPrime lost connection: Disconnected
+[15Mar2025 21:27:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime left the game
+[15Mar2025 21:31:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
+[15Mar2025 21:31:41.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 21:31:41.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 21:36:41.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 21:36:41.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
