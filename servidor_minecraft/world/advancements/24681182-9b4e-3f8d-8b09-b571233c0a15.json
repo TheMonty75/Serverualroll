@@ -6044,6 +6044,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-03-15 20:51:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terrasteel_helmet": {
     "criteria": {
       "has_prev_tier": "2025-03-15 20:30:30 +0000"
