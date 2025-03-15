@@ -86,3 +86,6 @@
 [15Mar2025 17:56:16.098] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
 [15Mar2025 17:56:18.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
 [15Mar2025 17:58:56.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> hay alguien
+[15Mar2025 18:10:16.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SF_KindPrime[/127.80.254.101:47755] logged in with entity id 3133 at (-444.9071157587258, 74.0, 311.65282451431653)
+[15Mar2025 18:10:16.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime joined the game
+[15Mar2025 18:10:16.725] [Server thread/INFO] [Jade/]: Syncing config to SF_KindPrime (8ac37f11-89c7-3573-a3ef-92766c917c7b)
