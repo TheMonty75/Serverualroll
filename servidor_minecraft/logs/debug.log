@@ -4478,3 +4478,37 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Mar2025 20:35:16.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> es que me falta carbon
 [15Mar2025 20:35:47.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> no pasa nada para eso está la madera mira
 [15Mar2025 20:35:59.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> vente
+[15Mar2025 20:36:41.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 20:36:41.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 20:36:42.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> esperamos un poquito
+[15Mar2025 20:36:53.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> si esto es lo que quiero hacer alli en la granja
+[15Mar2025 20:36:57.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> para hacerlo auto
+[15Mar2025 20:37:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> enchufalo al este de madera
+[15Mar2025 20:37:20.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que se lleve un poco para hacer carbon
+[15Mar2025 20:37:21.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> yaya, a eso iba
+[15Mar2025 20:37:30.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> y pondría más plantas de esas
+[15Mar2025 20:38:16.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> yo pondria otros 5 modulos como este
+[15Mar2025 20:38:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> teniendo 6 yo creo que irá más rapido
+[15Mar2025 20:38:25.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> eso quiero hacer
+[15Mar2025 20:38:49.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pss venga a que estamos esperando
+[15Mar2025 20:38:55.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> vente
+[15Mar2025 20:40:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> perdon estaba miando
+[15Mar2025 20:40:20.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> donde?
+[15Mar2025 20:40:27.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> a la granja de madera
+[15Mar2025 20:40:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que le has hecho?
+[15Mar2025 20:40:46.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> aqui detras vamos a sacar las cosas pa quemar
+[15Mar2025 20:40:50.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> 1500 de madera TU
+[15Mar2025 20:41:13.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> tengo que vaciarme el inventario de cosas del botania
+[15Mar2025 20:41:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> sujeta eso un momento
+[15Mar2025 20:41:41.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 20:41:41.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 20:42:42.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> necesito que me hagas engranajes
+[15Mar2025 20:42:59.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> cuantos?
+[15Mar2025 20:43:06.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> como 3 o cuatro
+[15Mar2025 20:43:14.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> dame dos palos de andesita
+[15Mar2025 20:44:49.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> 8 engranaajes tienes
+[15Mar2025 20:44:56.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> y 27 ejes creo
+[15Mar2025 20:45:52.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que falta
+[15Mar2025 20:46:09.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> otro filtro como el que hemos puesto
+[15Mar2025 20:46:17.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> embudo dices
+[15Mar2025 20:46:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> el brass belt funnel
