@@ -121,3 +121,8 @@
 [15Mar2025 12:59:29.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Disconnected
 [15Mar2025 12:59:29.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game
 [15Mar2025 12:59:29.447] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Mar2025 13:50:48.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:33495] logged in with entity id 53607 at (-388.869917471762, -59.0, 189.64084776308343)
+[15Mar2025 13:50:48.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
+[15Mar2025 13:50:48.504] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
+[15Mar2025 13:50:58.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> ola
+[15Mar2025 13:52:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar has made the advancement [Diamonds!]

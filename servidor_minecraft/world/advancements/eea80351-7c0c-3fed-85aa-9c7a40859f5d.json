@@ -2691,21 +2691,147 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/magenta_shiny_flower": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_item": "2025-03-15 12:09:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-03-15 12:47:05 +0000"
+      "has_azure_bluet": "2025-03-15 12:07:20 +0000"
     },
     "done": true
   },
   "botania:recipes/misc/petal_green_double": {
     "criteria": {
       "has_item": "2025-03-15 12:07:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 12:07:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2025-03-15 12:07:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-03-15 12:08:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-03-15 12:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-15 12:08:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-03-15 12:08:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 12:09:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2025-03-15 12:09:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 12:09:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2025-03-15 12:09:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 12:09:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-03-15 12:09:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 12:09:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-03-15 12:09:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 12:10:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2025-03-15 12:10:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray_double": {
+    "criteria": {
+      "has_item": "2025-03-15 12:10:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-15 12:15:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown": {
+    "criteria": {
+      "has_item": "2025-03-15 12:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-15 12:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-15 12:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-15 12:28:01 +0000"
     },
     "done": true
   },
@@ -2718,24 +2844,6 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-03-15 12:34:39 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/black_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-15 12:10:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-03-15 12:08:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-15 12:16:59 +0000"
     },
     "done": true
   },
@@ -2757,30 +2865,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/purple_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-15 12:09:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-03-15 12:28:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_purple": {
-    "criteria": {
-      "has_item": "2025-03-15 12:09:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/green_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-15 12:07:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-03-15 12:34:39 +0000"
@@ -2793,69 +2877,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/brown_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-15 12:15:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_magenta": {
-    "criteria": {
-      "has_item": "2025-03-15 12:09:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_green": {
-    "criteria": {
-      "has_item": "2025-03-15 12:07:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_black": {
-    "criteria": {
-      "has_item": "2025-03-15 12:10:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-03-15 12:08:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-03-15 12:08:10 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_gray_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-15 12:09:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-03-15 12:34:39 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_blue_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-15 12:09:38 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_gray": {
-    "criteria": {
-      "has_item": "2025-03-15 12:09:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-03-15 12:47:05 +0000"
     },
     "done": true
   },
@@ -2871,24 +2895,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-03-15 12:07:20 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_blue": {
-    "criteria": {
-      "has_item": "2025-03-15 12:09:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-03-15 12:47:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-03-15 12:34:39 +0000"
@@ -2901,27 +2907,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_brown": {
-    "criteria": {
-      "has_item": "2025-03-15 12:15:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_gray_double": {
-    "criteria": {
-      "has_item": "2025-03-15 12:10:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-03-15 12:34:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-03-15 12:28:01 +0000"
     },
     "done": true
   },
@@ -2931,9 +2919,99 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "fried_egg": "2025-03-15 12:08:10 +0000"
+      "has_flint": "2025-03-15 12:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-03-15 12:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-15 12:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-03-15 13:52:00 +0000"
     },
     "done": true
   },
