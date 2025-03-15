@@ -6335,6 +6335,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/terra_plate": {
+    "criteria": {
+      "has_item": "2025-03-15 12:53:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-03-15 12:07:42 +0000"
@@ -6467,6 +6473,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/fire_rod": {
+    "criteria": {
+      "has_item": "2025-03-15 12:53:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-03-15 12:07:42 +0000"
@@ -6506,6 +6518,12 @@
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-03-15 12:07:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/smelt_rod": {
+    "criteria": {
+      "has_item": "2025-03-15 12:53:13 +0000"
     },
     "done": true
   },
@@ -6584,6 +6602,12 @@
   "create:recipes/misc/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-03-15 12:07:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cobble_rod": {
+    "criteria": {
+      "has_item": "2025-03-15 12:53:13 +0000"
     },
     "done": true
   },
@@ -6668,6 +6692,12 @@
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-03-15 12:02:49 +0000"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2025-03-15 12:53:13 +0000"
     },
     "done": true
   },

@@ -4797,3 +4797,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Mar2025 12:42:29.203] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-452, y=70, z=350}) doesn't have enough leaves around top most log
 [15Mar2025 12:45:01.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Mar2025 12:45:01.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 12:48:24.456] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-451, y=72, z=350}) doesn't have enough leaves around top most log
+[15Mar2025 12:48:25.250] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-451, y=71, z=350}) doesn't have enough leaves around top most log
+[15Mar2025 12:48:26.047] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-451, y=71, z=349}) doesn't have enough leaves around top most log
+[15Mar2025 12:48:26.847] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-451, y=70, z=349}) doesn't have enough leaves around top most log
+[15Mar2025 12:48:27.648] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-451, y=70, z=348}) doesn't have enough leaves around top most log
+[15Mar2025 12:48:28.951] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-451, y=70, z=350}) doesn't have enough leaves around top most log
+[15Mar2025 12:50:01.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 12:50:01.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 12:53:13.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime has made the advancement [Drop Pop Candy]
+[15Mar2025 12:53:21.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SF_KindPrime lost connection: Disconnected
+[15Mar2025 12:53:21.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime left the game
+[15Mar2025 12:55:01.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 12:55:01.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2697,6 +2697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-15 12:47:05 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_green_double": {
     "criteria": {
       "has_item": "2025-03-15 12:07:54 +0000"
@@ -2847,6 +2853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-03-15 12:47:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-03-15 12:34:39 +0000"
@@ -2868,6 +2880,12 @@
   "botania:recipes/misc/petal_light_blue": {
     "criteria": {
       "has_item": "2025-03-15 12:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-15 12:47:05 +0000"
     },
     "done": true
   },
