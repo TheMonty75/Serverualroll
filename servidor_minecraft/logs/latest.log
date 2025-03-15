@@ -281,3 +281,16 @@
 [15Mar2025 21:50:05.664] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
 [15Mar2025 22:15:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
 [15Mar2025 22:17:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Survival Mode]
+[15Mar2025 22:22:13.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo lost connection: Disconnected
+[15Mar2025 22:22:13.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
+[15Mar2025 22:22:18.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Mar2025 22:22:18.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Mar2025 22:22:18.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Mar2025 22:22:18.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Mar2025 22:22:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Mar2025 22:22:19.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Mar2025 22:22:19.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Mar2025 22:22:19.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Mar2025 22:22:19.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Mar2025 22:22:19.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Mar2025 22:22:19.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
