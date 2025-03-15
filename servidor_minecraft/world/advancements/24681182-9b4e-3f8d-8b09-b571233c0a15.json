@@ -6026,6 +6026,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-03-15 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-15 21:44:22 +0000"
+    },
+    "done": true
+  },
   "create:funnel": {
     "criteria": {
       "0": "2025-03-15 20:41:29 +0000"
@@ -6041,6 +6053,12 @@
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2025-03-15 20:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-15 21:44:22 +0000"
     },
     "done": true
   },
@@ -6080,6 +6098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-15 21:44:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terrasteel_boots": {
     "criteria": {
       "has_prev_tier": "2025-03-15 20:30:30 +0000"
@@ -6107,6 +6131,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-03-15 21:34:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-03-15 21:44:22 +0000"
     },
     "done": true
   },

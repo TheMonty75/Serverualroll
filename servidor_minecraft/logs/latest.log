@@ -273,3 +273,4 @@
 [15Mar2025 21:27:59.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SF_KindPrime lost connection: Disconnected
 [15Mar2025 21:27:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime left the game
 [15Mar2025 21:31:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
+[15Mar2025 21:45:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Survival Mode]
