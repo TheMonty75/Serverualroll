@@ -3680,5 +3680,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-15 16:37:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-15 16:37:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
