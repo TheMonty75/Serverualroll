@@ -6441,12 +6441,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-16 12:52:53 +0000"
-    },
-    "done": true
-  },
   "create:deployer": {
     "criteria": {
       "0": "2025-03-16 12:19:40 +0000"
@@ -6459,15 +6453,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mysterious_cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-03-16 12:22:16 +0000"
+    },
+    "done": true
+  },
   "create:encased_fan": {
     "criteria": {
       "0": "2025-03-16 12:49:28 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mysterious_cuckoo_clock": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_item": "2025-03-16 12:22:16 +0000"
+      "lava_bucket": "2025-03-16 12:52:53 +0000"
     },
     "done": true
   },
