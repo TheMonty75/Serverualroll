@@ -6815,6 +6815,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
@@ -6827,9 +6833,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-03-16 21:23:09 +0000"
+    },
+    "done": true
+  },
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2025-03-16 19:32:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
     },
     "done": true
   },
@@ -6917,6 +6941,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
   "create:track_0": {
     "criteria": {
       "0": "2025-03-16 20:09:33 +0000"
@@ -6950,6 +6986,18 @@
   "botania:recipes/tools/obedience_stick": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-03-16 21:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-16 21:23:40 +0000"
     },
     "done": true
   },
@@ -6995,6 +7043,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_link": {
     "criteria": {
       "has_item": "2025-03-16 21:19:48 +0000"
@@ -7025,9 +7079,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-03-16 21:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/pump": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2025-03-16 21:35:42 +0000"
     },
     "done": true
   },
@@ -7037,9 +7109,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-03-16 21:23:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_boots": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-03-16 21:23:40 +0000"
     },
     "done": true
   },
@@ -7067,9 +7163,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/travel_belt": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
     },
     "done": true
   },
@@ -7097,6 +7205,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-03-16 20:18:14 +0000"
@@ -7112,6 +7226,12 @@
   "botania:recipes/tools/lava_pendant": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-03-16 21:23:40 +0000"
     },
     "done": true
   },
@@ -7139,9 +7259,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-03-16 21:23:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_axe": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-03-16 21:23:09 +0000"
     },
     "done": true
   },
@@ -7151,9 +7283,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/sextant": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
     },
     "done": true
   },
@@ -7187,9 +7331,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-16 21:14:57 +0000"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-03-16 21:23:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-03-16 21:34:42 +0000"
     },
     "done": true
   },
