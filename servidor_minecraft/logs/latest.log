@@ -292,3 +292,9 @@
 [16Mar2025 21:57:47.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> salto como de una barca
 [16Mar2025 21:57:48.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jjailock lost connection: Disconnected
 [16Mar2025 21:57:48.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock left the game
+[16Mar2025 22:03:33.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo lost connection: Disconnected
+[16Mar2025 22:03:33.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
+[16Mar2025 22:04:51.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jjailock[/127.104.247.64:37431] logged in with entity id 95693 at (-450.4964434703961, 64.87499999403954, 265.53538994645345)
+[16Mar2025 22:04:51.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
+[16Mar2025 22:04:51.889] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)
+[16Mar2025 22:10:58.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/95912, l='ServerLevel[world]', x=-375.97, y=74.00, z=252.50] died, message: 'Unemployed was shot by Pillager'
