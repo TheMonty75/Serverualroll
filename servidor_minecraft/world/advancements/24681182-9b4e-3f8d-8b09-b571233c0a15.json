@@ -6809,6 +6809,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
@@ -6824,6 +6830,12 @@
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2025-03-16 19:32:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
     },
     "done": true
   },
@@ -6845,6 +6857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-16 21:13:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_hoe": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
@@ -6854,6 +6872,12 @@
   "botania:recipes/tools/knockback_belt": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-03-16 21:20:07 +0000"
     },
     "done": true
   },
@@ -6872,6 +6896,24 @@
   "botania:recipes/combat/manasteel_sword": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-16 21:12:26 +0000"
     },
     "done": true
   },
@@ -6896,6 +6938,12 @@
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-16 21:14:57 +0000"
     },
     "done": true
   },
@@ -6941,6 +6989,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
@@ -6968,6 +7028,12 @@
   "botania:recipes/decorations/pump": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-03-16 21:19:27 +0000"
     },
     "done": true
   },
@@ -7007,6 +7073,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shovel": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
@@ -7031,9 +7103,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/lava_pendant": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
     },
     "done": true
   },
@@ -7046,6 +7130,12 @@
   "botania:recipes/building_blocks/manasteel_block": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
     },
     "done": true
   },
@@ -7079,9 +7169,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
+    },
+    "done": true
+  },
   "create:copper_casing": {
     "criteria": {
       "0": "2025-03-16 20:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-03-16 21:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-16 21:14:57 +0000"
     },
     "done": true
   },
