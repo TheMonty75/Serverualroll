@@ -4820,3 +4820,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Mar2025 21:50:51.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Mar2025 21:50:51.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Mar2025 21:51:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> bueno cuando vuelvas a la superficie me dices
+[16Mar2025 21:54:39.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> ya estoy en el pueblo
+[16Mar2025 21:54:48.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> vete a casa juan
+[16Mar2025 21:55:06.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> hay 3 fantoms
+[16Mar2025 21:55:15.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> creo que son mios
+[16Mar2025 21:55:51.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 21:55:51.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 21:56:21.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> sube
+[16Mar2025 21:56:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> nooo
+[16Mar2025 21:56:35.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> no le des ahi
+[16Mar2025 21:56:42.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> subete
+[16Mar2025 21:56:46.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> click derecho al asiento
+[16Mar2025 21:56:59.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> sientate primero
+[16Mar2025 21:57:32.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> casi me atropella
+[16Mar2025 21:57:40.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> ta guapo
+[16Mar2025 21:57:47.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> salto como de una barca
+[16Mar2025 21:57:48.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jjailock lost connection: Disconnected
+[16Mar2025 21:57:48.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock left the game
+[16Mar2025 22:00:51.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 22:00:51.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
