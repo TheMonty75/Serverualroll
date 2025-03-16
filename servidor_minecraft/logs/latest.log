@@ -97,3 +97,7 @@
 [16Mar2025 09:36:23.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Survival Mode]
 [16Mar2025 09:38:48.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo lost connection: Disconnected
 [16Mar2025 09:38:48.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
+[16Mar2025 12:10:26.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Montirizo[/127.117.194.152:52987] logged in with entity id 15177 at (-404.7673194131253, 66.0, 293.36465161660436)
+[16Mar2025 12:10:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo joined the game
+[16Mar2025 12:10:26.715] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
+[16Mar2025 12:14:53.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
