@@ -88,3 +88,4 @@
 [16Mar2025 08:24:34.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo joined the game
 [16Mar2025 08:24:34.954] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
 [16Mar2025 08:24:37.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3200ms or 64 ticks behind
+[16Mar2025 08:34:56.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
