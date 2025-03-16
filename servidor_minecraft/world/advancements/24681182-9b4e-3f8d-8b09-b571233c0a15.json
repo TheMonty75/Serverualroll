@@ -6845,9 +6845,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-16 20:18:14 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_sword": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-03-16 20:09:33 +0000"
     },
     "done": true
   },
@@ -6881,6 +6893,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-16 20:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-16 20:18:14 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shears": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
@@ -6890,6 +6914,12 @@
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-03-16 20:18:19 +0000"
     },
     "done": true
   },
@@ -6929,6 +6959,12 @@
     },
     "done": true
   },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-03-16 20:18:14 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
@@ -6956,6 +6992,12 @@
   "botania:recipes/tools/ice_pendant": {
     "criteria": {
       "has_item": "2025-03-16 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-16 20:18:14 +0000"
     },
     "done": true
   },

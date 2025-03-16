@@ -190,3 +190,15 @@
 [16Mar2025 19:59:52.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> na
 [16Mar2025 20:00:09.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> el caminito va por debajo de la montaña de la izquierda
 [16Mar2025 20:00:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> osea que primero cambiar las vias que ya existen por las nuevas no?
+[16Mar2025 20:01:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> seria lo suyo ya que las vias ahora mismo conctan las 3 casas segura
+[16Mar2025 20:01:06.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> okay
+[16Mar2025 20:01:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> porque la de andres y la de pablo ni idea
+[16Mar2025 20:07:14.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> ta rara el funcionamiento del agua
+[16Mar2025 20:07:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pss seguramente
+[16Mar2025 20:11:13.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> avatar, el segundo del agua
+[16Mar2025 20:27:24.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jjailock lost connection: Disconnected
+[16Mar2025 20:27:24.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock left the game
+[16Mar2025 20:27:32.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jjailock[/127.104.247.64:42863] logged in with entity id 64922 at (-432.3812407409298, 70.0, 193.39228418222487)
+[16Mar2025 20:27:32.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
+[16Mar2025 20:27:32.420] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)
+[16Mar2025 20:29:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> aqui hay algo que no me puto cuadra
