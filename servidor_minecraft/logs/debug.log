@@ -4280,3 +4280,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Mar2025 17:47:02.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Mar2025 17:47:03.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Mar2025 17:48:42.612] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-430, y=67, z=344}) doesn't have enough leaves around top most log
+[16Mar2025 17:52:03.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 17:52:03.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 17:57:02.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 17:57:03.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 18:02:03.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 18:02:03.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 18:07:03.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 18:07:03.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 18:11:31.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
+[16Mar2025 18:11:52.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Survival Mode]
+[16Mar2025 18:12:02.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 18:12:03.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 18:16:55.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo lost connection: Disconnected
+[16Mar2025 18:16:55.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
+[16Mar2025 18:17:02.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 18:17:02.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 18:17:08.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Mar2025 18:17:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Mar2025 18:17:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Mar2025 18:17:08.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Mar2025 18:17:08.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Mar2025 18:17:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Mar2025 18:17:08.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Mar2025 18:17:08.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 18:17:08.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 18:17:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Mar2025 18:17:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Mar2025 18:17:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Mar2025 18:17:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Mar2025 18:17:08.699] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[16Mar2025 18:17:08.699] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[16Mar2025 18:17:08.707] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[16Mar2025 18:17:08.707] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[16Mar2025 18:17:08.708] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[16Mar2025 18:17:08.708] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[16Mar2025 18:17:08.709] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

@@ -83,3 +83,18 @@
 [16Mar2025 17:22:59.734] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
 [16Mar2025 17:23:02.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
 [16Mar2025 17:25:06.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo fell off a ladder
+[16Mar2025 18:11:31.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
+[16Mar2025 18:11:52.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Survival Mode]
+[16Mar2025 18:16:55.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo lost connection: Disconnected
+[16Mar2025 18:16:55.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
+[16Mar2025 18:17:08.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Mar2025 18:17:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Mar2025 18:17:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Mar2025 18:17:08.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Mar2025 18:17:08.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Mar2025 18:17:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Mar2025 18:17:08.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Mar2025 18:17:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Mar2025 18:17:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Mar2025 18:17:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Mar2025 18:17:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
