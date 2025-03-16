@@ -92,3 +92,6 @@
 [16Mar2025 14:26:41.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo joined the game
 [16Mar2025 14:26:41.877] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
 [16Mar2025 14:26:44.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
+[16Mar2025 14:41:39.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
+[16Mar2025 14:45:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Spectator Mode]
+[16Mar2025 14:46:02.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
