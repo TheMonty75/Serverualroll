@@ -85,3 +85,9 @@
 [17Mar2025 08:15:13.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
 [17Mar2025 08:15:13.356] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
 [17Mar2025 08:15:15.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[17Mar2025 08:31:59.645] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-409, y=78, z=325}
+[17Mar2025 08:34:01.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 lost connection: Disconnected
+[17Mar2025 08:34:01.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
+[17Mar2025 08:38:17.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:56859] logged in with entity id 5309 at (-418.0310354952724, 77.0, 325.4521601603619)
+[17Mar2025 08:38:17.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
+[17Mar2025 08:38:17.457] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
