@@ -80,3 +80,8 @@
 [17Mar2025 08:02:35.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.177s)! For help, type "help"
 [17Mar2025 08:02:35.333] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [17Mar2025 08:02:35.335] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[17Mar2025 08:15:13.053] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[17Mar2025 08:15:13.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:46393] logged in with entity id 91 at (-411.7741603486242, 77.0, 329.90329999666204)
+[17Mar2025 08:15:13.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
+[17Mar2025 08:15:13.356] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
+[17Mar2025 08:15:15.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
