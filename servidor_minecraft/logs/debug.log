@@ -4568,3 +4568,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Mar2025 12:14:31.272] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-427, y=67, z=344}) doesn't have enough leaves around top most log
 [17Mar2025 12:14:40.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar has made the advancement [Take Aim]
 [17Mar2025 12:14:44.920] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-429, y=67, z=344}) doesn't have enough leaves around top most log
+[17Mar2025 12:16:16.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 12:16:16.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 12:21:16.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 12:21:16.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 12:22:40.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> vale, necesito muchas perlas de ender
+[17Mar2025 12:23:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> estoy produciendo demasiado maná porque esto está produciendo demasiado carbon xDDD
+[17Mar2025 12:23:17.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> necesito madera
+[17Mar2025 12:23:25.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> y ahora no hay
+[17Mar2025 12:23:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> pilla pilla
+[17Mar2025 12:23:37.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> en mi casa hay
+[17Mar2025 12:23:41.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> te robo
