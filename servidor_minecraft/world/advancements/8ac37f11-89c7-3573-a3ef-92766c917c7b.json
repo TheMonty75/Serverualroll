@@ -5156,7 +5156,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "vegetable_soup": "2025-03-14 10:18:27 +0000"
+      "vegetable_soup": "2025-03-14 10:18:27 +0000",
+      "fried_rice": "2025-03-17 13:05:27 +0000"
     },
     "done": false
   },

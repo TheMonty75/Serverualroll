@@ -1,172 +1,97 @@
-[17Mar2025 11:55:32.535] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[17Mar2025 11:55:32.539] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[17Mar2025 11:55:33.602] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[17Mar2025 11:55:33.761] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serverualroll/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[17Mar2025 11:55:34.247] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[17Mar2025 11:55:34.249] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17Mar2025 11:55:34.250] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17Mar2025 11:55:34.252] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17Mar2025 11:55:34.511] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[17Mar2025 11:55:34.512] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[17Mar2025 11:55:36.736] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[17Mar2025 11:55:36.820] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[17Mar2025 11:55:37.149] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 71 options available, 0 override(s) found
-[17Mar2025 11:55:37.926] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[17Mar2025 11:55:46.195] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[17Mar2025 11:55:46.238] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[17Mar2025 11:55:46.810] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[17Mar2025 11:55:46.814] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[17Mar2025 11:55:50.539] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[17Mar2025 11:55:50.540] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[17Mar2025 11:55:50.540] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[17Mar2025 11:55:50.541] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[17Mar2025 11:55:50.542] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[17Mar2025 11:55:50.542] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[17Mar2025 11:55:50.543] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[17Mar2025 11:55:50.543] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[17Mar2025 11:55:50.544] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[17Mar2025 11:55:50.545] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[17Mar2025 11:55:50.624] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[17Mar2025 11:55:50.776] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[17Mar2025 11:55:50.850] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[17Mar2025 11:55:50.862] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[17Mar2025 11:55:50.868] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[17Mar2025 11:55:50.869] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[17Mar2025 11:55:50.870] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[17Mar2025 11:55:50.871] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[17Mar2025 11:55:50.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[17Mar2025 11:55:51.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[17Mar2025 11:55:51.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[17Mar2025 11:55:51.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[17Mar2025 11:55:51.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[17Mar2025 11:55:51.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[17Mar2025 11:55:54.877] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17Mar2025 11:55:57.125] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
-[17Mar2025 11:55:57.126] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
-[17Mar2025 11:56:00.280] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 35 recipes
-[17Mar2025 11:56:00.537] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3439 advancements
-[17Mar2025 11:56:00.557] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[17Mar2025 11:56:00.563] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[17Mar2025 11:56:00.582] [main/INFO] [botania/]: Loaded 30 Loonium configurations
-[17Mar2025 11:56:02.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[17Mar2025 11:56:02.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[17Mar2025 11:56:02.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[17Mar2025 11:56:02.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[17Mar2025 11:56:02.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[17Mar2025 11:56:02.739] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[17Mar2025 11:56:02.834] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17Mar2025 11:56:02.834] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[17Mar2025 11:56:02.834] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17Mar2025 11:56:02.835] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[17Mar2025 11:56:02.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[17Mar2025 11:56:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[17Mar2025 11:56:07.594] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:07.639] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:07.675] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:07.736] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:08.177] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:08.670] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:09.168] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:09.667] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:10.170] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:10.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:11.170] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Mar2025 11:56:11.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[17Mar2025 11:56:12.167] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[17Mar2025 11:56:12.667] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[17Mar2025 11:56:13.066] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6900 ms
-[17Mar2025 11:56:13.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.202s)! For help, type "help"
-[17Mar2025 11:56:13.428] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[17Mar2025 11:56:13.431] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[17Mar2025 11:56:20.702] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[17Mar2025 11:56:20.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SF_KindPrime[/127.80.254.101:33175] logged in with entity id 94 at (-430.55172711953014, 71.0, 342.9629567648633)
-[17Mar2025 11:56:21.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime joined the game
-[17Mar2025 11:56:21.077] [Server thread/INFO] [Jade/]: Syncing config to SF_KindPrime (8ac37f11-89c7-3573-a3ef-92766c917c7b)
-[17Mar2025 11:56:24.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
-[17Mar2025 11:56:54.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:42213] logged in with entity id 581 at (-517.3000000119209, -22.0, 227.73075452536938)
-[17Mar2025 11:56:54.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
-[17Mar2025 11:56:54.976] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
-[17Mar2025 11:57:05.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> ry
-[17Mar2025 11:57:07.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> ey
-[17Mar2025 12:08:22.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:49359] logged in with entity id 27298 at (-332.67062057442587, -59.0, 192.87118227789887)
-[17Mar2025 12:08:22.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
-[17Mar2025 12:08:22.785] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
-[17Mar2025 12:12:45.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> zzzz
-[17Mar2025 12:12:46.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> zzz
-[17Mar2025 12:12:48.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> zzzzz
-[17Mar2025 12:12:53.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> UwU
-[17Mar2025 12:13:00.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Mime junacho mime
-[17Mar2025 12:13:05.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> dame un momento
-[17Mar2025 12:13:12.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> y 2 rey
-[17Mar2025 12:13:17.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Está vivo!!
-[17Mar2025 12:13:49.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> estaba siendo autista limpiando la playa
-[17Mar2025 12:14:40.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar has made the advancement [Take Aim]
-[17Mar2025 12:22:40.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> vale, necesito muchas perlas de ender
-[17Mar2025 12:23:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> estoy produciendo demasiado maná porque esto está produciendo demasiado carbon xDDD
-[17Mar2025 12:23:17.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> necesito madera
-[17Mar2025 12:23:25.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> y ahora no hay
-[17Mar2025 12:23:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> pilla pilla
-[17Mar2025 12:23:37.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> en mi casa hay
-[17Mar2025 12:23:41.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> te robo
-[17Mar2025 12:26:06.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> andrés creo que he movido algo de la granja de madera sin querer
-[17Mar2025 12:26:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> y ahora no gira
-[17Mar2025 12:26:13.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> voy
-[17Mar2025 12:26:17.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> inge en camino
-[17Mar2025 12:27:11.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> has girado el mecanimos de velocidad
-[17Mar2025 12:27:36.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> aaahh
-[17Mar2025 12:27:44.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> le aumnento la vel?
-[17Mar2025 12:27:56.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> esta girando al reves xD
-[17Mar2025 12:28:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> lo he subido yo antes
-[17Mar2025 12:28:15.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> ahora va a toda polla
-[17Mar2025 12:28:21.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> creo q puedo darle mas
-[17Mar2025 12:28:35.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> no creo que haga falta
-[17Mar2025 12:28:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> xD
-[17Mar2025 12:28:58.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> esta guapo
-[17Mar2025 12:29:02.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> dejalo en 32 xDD
-[17Mar2025 12:29:12.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> que me da la impresion de que va a generar lag
-[17Mar2025 12:29:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> arreglado
-[17Mar2025 12:29:19.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> no genera tanto
-[17Mar2025 12:29:26.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> sigue llendo folladisimo
-[17Mar2025 12:29:28.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> porq es solo 1 entidad
-[17Mar2025 12:29:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> es como cuando un aldeano se pone a girar sobre si mismo
-[17Mar2025 12:29:52.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> toma
-[17Mar2025 12:30:02.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> pa q es est?
-[17Mar2025 12:30:02.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> asi tambien puedes tener por ahi
-[17Mar2025 12:30:12.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> para porsi la granja no tiene
-[17Mar2025 12:30:20.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> ah y toma
-[17Mar2025 12:30:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> me voy a hacer un set del botania
-[17Mar2025 12:30:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> los restos
-[17Mar2025 12:30:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> no coño
-[17Mar2025 12:30:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> xDDDD
-[17Mar2025 12:30:49.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> xDDDDDDDDD
-[17Mar2025 12:31:05.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> vooy a ver si puedo hacer que la generacion y el gasto de mana vayan en equilibrio
-[17Mar2025 12:31:10.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> y os hago un set a todos
-[17Mar2025 12:31:15.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> tremendo
-[17Mar2025 12:31:45.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> pero ahora mismo necesito perlas de ender por un tubo
-[17Mar2025 12:31:52.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> pero nivel industrial
-[17Mar2025 12:31:59.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> se veo un negro lo mato
-[17Mar2025 12:32:04.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> xDDD
-[17Mar2025 12:32:05.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> estados unidos en los 80
-[17Mar2025 12:32:06.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> xD
-[17Mar2025 12:32:11.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> BLACK SUSPECT ON THE RUN
-[17Mar2025 12:34:25.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime was slain by Enderman
-[17Mar2025 12:34:34.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> q guapa la pelea de juancho contra el negro
-[17Mar2025 12:34:43.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> te veo desde las alturas
-[17Mar2025 12:34:57.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> la unica desventaja es que el hacha del set es mas lenta xD
-[17Mar2025 12:35:46.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar has made the advancement [Hunt and Gather]
-[17Mar2025 12:36:09.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> que susto
-[17Mar2025 12:36:15.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> welcome to london brbo
-[17Mar2025 12:36:22.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> xDDDDD
-[17Mar2025 12:37:58.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Gente, porqué suena aquí a aldeano
-[17Mar2025 12:42:44.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> Andrés si lo quieres tengo stack y medio de Verilium en el cofre de dentro
-[17Mar2025 12:42:45.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jjailock[/127.223.132.179:37469] logged in with entity id 115596 at (-436.5469580564953, 67.0, 198.4997180093958)
-[17Mar2025 12:42:45.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
-[17Mar2025 12:42:45.426] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)
-[17Mar2025 12:42:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> perfect
-[17Mar2025 12:43:01.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> tengo tu pounch
-[17Mar2025 12:43:03.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> de flotes
-[17Mar2025 12:43:09.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> como va?
-[17Mar2025 12:43:16.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> cogiste muchas?
-[17Mar2025 12:43:19.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> como q no he jugado mucho
-[17Mar2025 12:43:24.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SF_KindPrime> claro
-[17Mar2025 12:44:23.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yandrak12> esta con tu barita en los cofres de fuera de mi casa
+[17Mar2025 13:02:16.129] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[17Mar2025 13:02:16.134] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[17Mar2025 13:02:17.009] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17Mar2025 13:02:17.081] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serverualroll/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[17Mar2025 13:02:17.384] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[17Mar2025 13:02:17.386] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Mar2025 13:02:17.387] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Mar2025 13:02:17.389] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Mar2025 13:02:17.604] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[17Mar2025 13:02:17.605] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[17Mar2025 13:02:19.700] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Mar2025 13:02:19.753] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17Mar2025 13:02:19.993] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 71 options available, 0 override(s) found
+[17Mar2025 13:02:21.045] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[17Mar2025 13:02:28.777] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[17Mar2025 13:02:28.810] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[17Mar2025 13:02:29.716] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[17Mar2025 13:02:29.717] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[17Mar2025 13:02:34.550] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[17Mar2025 13:02:34.551] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[17Mar2025 13:02:34.552] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[17Mar2025 13:02:34.558] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[17Mar2025 13:02:34.559] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[17Mar2025 13:02:34.559] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[17Mar2025 13:02:34.562] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[17Mar2025 13:02:34.563] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[17Mar2025 13:02:34.564] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[17Mar2025 13:02:34.572] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[17Mar2025 13:02:34.758] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[17Mar2025 13:02:35.060] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[17Mar2025 13:02:35.105] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[17Mar2025 13:02:35.129] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[17Mar2025 13:02:35.131] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[17Mar2025 13:02:35.133] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[17Mar2025 13:02:35.134] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[17Mar2025 13:02:35.137] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[17Mar2025 13:02:35.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[17Mar2025 13:02:35.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[17Mar2025 13:02:35.890] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[17Mar2025 13:02:36.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[17Mar2025 13:02:36.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Mar2025 13:02:36.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[17Mar2025 13:02:39.217] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17Mar2025 13:02:41.406] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
+[17Mar2025 13:02:41.407] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serverualroll/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
+[17Mar2025 13:02:44.252] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 35 recipes
+[17Mar2025 13:02:44.439] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3439 advancements
+[17Mar2025 13:02:44.448] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[17Mar2025 13:02:44.454] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[17Mar2025 13:02:44.479] [main/INFO] [botania/]: Loaded 30 Loonium configurations
+[17Mar2025 13:02:46.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17Mar2025 13:02:46.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Mar2025 13:02:46.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Mar2025 13:02:46.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Mar2025 13:02:46.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Mar2025 13:02:46.843] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Mar2025 13:02:46.943] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17Mar2025 13:02:46.943] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17Mar2025 13:02:46.943] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17Mar2025 13:02:46.944] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17Mar2025 13:02:47.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Mar2025 13:02:50.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Mar2025 13:02:55.097] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.120] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.125] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.133] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.144] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.165] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.174] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.189] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.195] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.441] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:55.940] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:56.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 13:02:56.981] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[17Mar2025 13:02:57.437] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[17Mar2025 13:02:57.627] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7191 ms
+[17Mar2025 13:02:57.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.667s)! For help, type "help"
+[17Mar2025 13:02:57.692] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Mar2025 13:02:57.694] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[17Mar2025 13:03:06.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[17Mar2025 13:03:06.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:33085] logged in with entity id 94 at (-452.1478199782073, 64.0, 258.33134217053805)
+[17Mar2025 13:03:07.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
+[17Mar2025 13:03:07.230] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
+[17Mar2025 13:03:10.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3444ms or 68 ticks behind
+[17Mar2025 13:03:13.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:48319] logged in with entity id 407 at (-451.38383034712757, 71.0, 339.457278822966)
+[17Mar2025 13:03:13.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
+[17Mar2025 13:03:13.376] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
+[17Mar2025 13:03:25.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SF_KindPrime[/127.80.254.101:59027] logged in with entity id 950 at (-425.8214869319922, 67.0, 345.8479424511189)
+[17Mar2025 13:03:25.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime joined the game
+[17Mar2025 13:03:25.323] [Server thread/INFO] [Jade/]: Syncing config to SF_KindPrime (8ac37f11-89c7-3573-a3ef-92766c917c7b)
+[17Mar2025 13:03:37.639] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f5845b4[id=<null>,name=jjailock,properties={},legacy=false] (/127.223.132.179:37645) lost connection: Disconnected
+[17Mar2025 13:03:47.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jjailock[/127.223.132.179:55577] logged in with entity id 1935 at (-436.2129288755645, 67.0, 198.56340306085363)
+[17Mar2025 13:03:47.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
+[17Mar2025 13:03:47.901] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)
+[17Mar2025 13:05:19.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar was shot by Skeleton
